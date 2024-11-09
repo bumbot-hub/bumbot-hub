@@ -1,13 +1,13 @@
 ## Welcome to My GitHub Profile! 👋
 
 Hi, I’m Kamil (NeuroWombat), a Technical Computer Science student at the Wrocław University of Science and Technology. I’m passionate about AI, neuroinformatics, and web development.
-    👨‍🔬About Me👨‍🔬
+   # 👨‍🔬About Me👨‍🔬
 
     🛠️ I have experience with JavaScript, PHP, C++ and Python.
     📚 Currently working on Web Dev and C++ projects and taking the Building AI course from Elements of AI.
     🌱 Always eager to learn more about machine learning and brain-computer interfaces (BCI).
 
-  💻Projects💻
+  # 💻Projects💻
 
 Here are some of the projects I’m currently working on:
 
