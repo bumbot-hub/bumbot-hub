@@ -1,17 +1,24 @@
-## Welcome to My GitHub Profile! 👋
+### Hi, I’m Kamil (NeuroWombat)! 👋
 
-Hi, I’m Kamil (NeuroWombat), a Technical Computer Science student at the Wrocław University of Science and Technology. I’m passionate about AI, neuroinformatics, and web development.
-   # 👨‍🔬About Me👨‍🔬
+## 👨‍🔬About Me👨‍🔬
+   🏫 Computer Science student at Wrocław University of Science and Technology,  
+   🚀 Passionate about AI, Web Development, Neuroinformatics and BCI,  
+   💡 Lifelong learner always eager to explore new technologies and ideas.  
 
-    🛠️ I have experience with JavaScript, PHP, C++ and Python.
-    📚 Currently working on Web Dev and C++ projects and taking the Building AI course from Elements of AI.
-    🌱 Always eager to learn more about machine learning and brain-computer interfaces (BCI).
+## ⚙️Skills⚙️
+> Programming languages
 
-  # 💻Projects💻
+<img src="https://github.com/NeuroWombat/IMG/blob/main/cpp.png" height="128px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/Python.png" height="128px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/JS.png" height="128px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/PHP.png" height="128px"></img> 
 
-Here are some of the projects I’m currently working on:
+## 💻Current Projects💻
+Here are some of the projects I’m currently working on:  
+   ✨ [Autopay-invoice-automation](https://github.com/NeuroWombat/Autopay-invoice-automation/tree/main): Automates downloading and organizing invoices from Autopay service.  
+   ✨ [Anarkoid](https://github.com/NeuroWombat/Anarkoid): A retro-inspired arcade game with unique mechanics and engaging challenges.  
+   ✨ [BuKuKu Bookstore](https://github.com/NeuroWombat/BuKuKu_Website): An online platform for browsing, rating and purchasing books.  
 
-    ✨ C++ Projects: A collection of advanced programs developed for academic purposes, focusing on data structures, algorithms, and database management.
-    ✨ BuKuKu Bookstore: An online platform for browsing, rating and purchasing books.
+## 📈GitHub Stats📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroWombat&layout=compact) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=NeuroWombat.NeuroWombat)
 
-Feel free to explore my repositories!
+
+> Feel free to explore my repositories!
+
