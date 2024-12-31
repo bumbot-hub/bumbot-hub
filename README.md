@@ -17,7 +17,7 @@ Here are some of the projects I’m currently working on:
    ✨ [BuKuKu Bookstore](https://github.com/NeuroWombat/BuKuKu_Website): An online platform for browsing, rating and purchasing books.  
 
 ## 📈GitHub Stats📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroWombat&layout=compact) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=NeuroWombat.NeuroWombat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroWombat&layout=compact)
 
 
 > Feel free to explore my repositories!
