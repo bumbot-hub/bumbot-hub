@@ -8,7 +8,7 @@
 ## ⚙️Skills⚙️
 > Programming languages
 
-<img src="https://github.com/NeuroWombat/IMG/blob/main/cpp.png" height="128px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/Python.png" height="128px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/JS.png" height="128px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/PHP.png" height="128px"></img> 
+<img src="https://github.com/NeuroWombat/IMG/blob/main/cpp.png" height="64px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/Python.png" height="64px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/JS.png" height="64px"></img>  <img src="https://github.com/NeuroWombat/IMG/blob/main/PHP.png" height="64px"></img> 
 
 ## 💻Current Projects💻
 Here are some of the projects I’m currently working on:  
