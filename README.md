@@ -1,4 +1,4 @@
-### Hi, I’m Kamil (NeuroWombat)! 👋
+### Hi, I’m Kamil! 👋
 
 ## 👨‍🔬About Me👨‍🔬
    🏫 Computer Science student at Wrocław University of Science and Technology,  
@@ -12,9 +12,9 @@
 
 ## 💻Current Projects💻
 Here are some of the projects I’m currently working on:  
-   ✨ [Autopay-invoice-automation](https://github.com/NeuroWombat/Autopay-invoice-automation/tree/main): Automates downloading and organizing invoices from Autopay service.  
-   ✨ [Anarkoid](https://github.com/NeuroWombat/Anarkoid): A retro-inspired arcade game with unique mechanics and engaging challenges.  
-   ✨ [BuKuKu Bookstore](https://github.com/NeuroWombat/BuKuKu_Website): An online platform for browsing, rating and purchasing books.  
+   ✨ [Invoice-fetcher](https://github.com/bumbot-hub/Invoice-Fetcher): Automates downloading and organizing invoices from Autopay service.  
+   ✨ [Anarkoid](https://github.com/bumbot-hub/Anarkoid): A retro-inspired arcade game with unique mechanics and engaging challenges.  
+   ✨ [BuKuKu Bookstore](https://github.com/bumbot-hub/BuKuKu_Website): An online platform for browsing, rating and purchasing books.  
 
 ## 📈GitHub Stats📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroWombat&layout=compact) 
