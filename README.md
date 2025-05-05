@@ -17,7 +17,7 @@ Here are some of the projects I’m currently working on:
    ✨ [BuKuKu Bookstore](https://github.com/bumbot-hub/BuKuKu_Website): An online platform for browsing, rating and purchasing books.  
 
 ## 📈GitHub Stats📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroWombat&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact) 
 [![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/bumbot-hub)](https://badges.pufler.dev)
 
 
