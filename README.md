@@ -19,7 +19,7 @@ Here are some of the projects I’m currently working on:
    ✨ Backend Developer on the NeuroGuard project at Neuron.  
    ✨ [Reactor network simulation](https://github.com/bumbot-hub/reactor-network-simulation): Agent-based simulation of a network of nuclear reactors and surrounding cities, featuring reactor operations and a GUI view.  
    ✨ [GoodReads Book Recomendation](https://github.com/bumbot-hub/Goodreads_Book_Recomendation): AI-based book recommendation system that suggests books to users based on their preferences using the KNN algorithm.  
-   ✨ [Invoice-fetcher](https://github.com/bumbot-hub/Invoice-Fetcher): Automates downloading and organizing invoices from Autopay service.  
+   ✨ [Invoice-fetcher](https://github.com/bumbot-hub/Invoice-Fetcher): Python program that automates the downloading and printing of invoices from the Autopay service. 
 
 ## 📈GitHub Stats📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact) 
