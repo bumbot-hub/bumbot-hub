@@ -18,7 +18,7 @@ Here are some of the projects I’m currently working on:
 
 ## 📈GitHub Stats📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroWombat&layout=compact) 
-[![Visits Badge](https://badges.pufler.dev/visits/NeuroWombat/NeuroWombat)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/bumbot-hub)](https://badges.pufler.dev)
 
 
 > Feel free to explore my repositories!
