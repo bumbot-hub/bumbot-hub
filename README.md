@@ -22,7 +22,7 @@ Here are some of the projects I’m currently working on:
    ✨ [Invoice-fetcher](https://github.com/bumbot-hub/Invoice-Fetcher): Python program that automates the downloading and printing of invoices from the Autopay service. 
 
 ## 📈GitHub Stats📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact&hide=jupyter%20notebook,css) 
 [![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/bumbot-hub)](https://badges.pufler.dev)
 
 
