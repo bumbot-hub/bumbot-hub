@@ -2,7 +2,7 @@
 
 ## 👨‍🔬About Me👨‍🔬
    🏫 Computer Science student at Wrocław University of Science and Technology,  
-   🧠 Member of Neuron - a student science club at WUST,  
+   🧠 Member of Neuron – a neuroinformatics student science club at WUST, 
    🚀 My interests include: BCI, Neuroinformatics, AI/ML, Data Analysis, Web Development, and UI/UX design,  
    💡 Lifelong learner always eager to explore new technologies and ideas.
 
