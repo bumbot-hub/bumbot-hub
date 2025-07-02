@@ -28,7 +28,7 @@
 
 <ul>
   <li>
-    <b>NeuroGuard</b> – Backend Developer at <i>Neuron Scientific Research Group</i>
+    <b>NeuroGUARD</b> – Backend Developer at <i>Neuron Scientific Research Group</i>
   </li>
   <li>
     <a href="https://github.com/bumbot-hub/reactor-network-simulation"  style="color: #A3C900"><b>Reactor Network Simulation</b></a> – Agent-based nuclear reactor & city simulation.
