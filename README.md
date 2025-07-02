@@ -23,7 +23,7 @@ Here are some of the projects I’m currently working on:
 
 ## 📈GitHub Stats📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact&hide=jupyter%20notebook,css) 
-[![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/bumbot-hub)](https://badges.pufler.dev)
+![](https://api.visitorbadge.io/api/VisitorHit?user=bumbot-hub&repo=bumbot-hub)
 
 
 > Feel free to explore my repositories!
