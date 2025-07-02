@@ -1,30 +1,47 @@
-# Hi, I’m Kamil! 👋
+<div align="center">
 
-## 👨‍🔬About Me👨‍🔬
-   🏫 Computer Science student at Wrocław University of Science and Technology,  
-   🧠 Member of Neuron – a neuroinformatics student science club at WUST,  
-   🚀 My interests include: BCI, Neuroinformatics, AI/ML, Data Analysis, Web Development, and UI/UX design,  
-   💡 Lifelong learner always eager to explore new technologies and ideas.
+<h1>Welcome into my hub</h1>
 
-## ⚙️Skills⚙️
-> Languages and Tools
+**Computer Science student at WUST | Member of Neuron Scientific Research Group, WUST**
 
-[![Languages](https://skillicons.dev/icons?i=js,cpp,java,py,php,mysql,html,css,postman,electron,react)](https://skillicons.dev)
-> Design apps
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&pause=1000&color=A3C900&center=true&vCenter=true&width=600&lines=Neuroinformatics+Enthusiast;Computer+Science+Student;UI/UX Designer;Web+Developer;AI%2FML+Learner)](https://git.io/typing-svg)
 
-[![Design](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=bumbot-hub&repo=bumbot-hub&countColor=%23A3C900&labelColor=%23000000)
+</div>
 
-## 💻Current Projects💻
-Here are some of the projects I’m currently working on:  
-   ✨ Backend Developer on the NeuroGuard project at Neuron.  
-   ✨ [Reactor network simulation](https://github.com/bumbot-hub/reactor-network-simulation): Agent-based simulation of a network of nuclear reactors and surrounding cities, featuring reactor operations and a GUI view.  
-   ✨ [Next Read](https://github.com/bumbot-hub/Next-Read): AI-based book recommendation system that suggests books to users based on their preferences from GoodReads data using the KNN algorithm.  
-   ✨ [Invoice-fetcher](https://github.com/bumbot-hub/Invoice-Fetcher): Python program that automates the downloading and printing of invoices from the Autopay service. 
+<table style="border: none">
+<tr  align="center">
+<td width="50%" valign="top">
+<h2>⚙️Skills⚙️</h2>
 
-## 📈GitHub Stats📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact&hide=jupyter%20notebook,css) 
-![](https://api.visitorbadge.io/api/VisitorHit?user=bumbot-hub&repo=bumbot-hub)
+[![Languages](https://skillicons.dev/icons?i=php,react,css,cpp)](https://skillicons.dev)
 
+[![Languages](https://skillicons.dev/icons?i=ps,py,js,postman)](https://skillicons.dev)
 
-> Feel free to explore my repositories!
+[![Languages](https://skillicons.dev/icons?i=html,git,xd,figma)](https://skillicons.dev)
 
+</td>
+<td width="50%" valign="top">
+<h2>💻 Current Projects 💻</h2>
+
+<ul>
+  <li>
+    <b>NeuroGuard</b> – Backend Developer at <i>Neuron Scientific Research Group</i>
+  </li>
+  <li>
+    <a href="https://github.com/bumbot-hub/reactor-network-simulation"  style="color: #A3C900"><b>Reactor Network Simulation</b></a> – Agent-based simulation of nuclear reactors and cities, with random failures and contamination spread.
+  </li>
+  <li>
+    <a href="https://github.com/bumbot-hub/Next-Read" style="color: #A3C900"><b>Next Read</b></a> – AI-powered book recommendation system using GoodReads data and KNN algorithm.
+  </li>
+  <li>
+    <a href="https://github.com/bumbot-hub/Invoice-Fetcher" style="color: #A3C900"><b>Invoice-Fetcher</b></a> – Automates invoice downloading and printing from Autopay.
+  </li>
+</ul>
+</td>
+</tr>
+</table>
+<p align="center">
+  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact&hide=jupyter%20notebook,css&theme=merko" />
+  <img width="408" src="https://github-readme-stats.vercel.app/api?username=bumbot-hub&show_icons=true&theme=merko" />
+</p>
