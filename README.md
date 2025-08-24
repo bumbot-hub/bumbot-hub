@@ -2,7 +2,7 @@
 
 <h1>Welcome into my hub</h1>
 
-**Computer Science student at WUST | Member of Neuron Scientific Research Group, WUST**
+**Computer Science student at WUST | Member of [Neuron Scientific Research Group](https://github.com/KN-Neuron), WUST**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&pause=1000&color=A3C900&center=true&vCenter=true&width=600&lines=Neuroinformatics+Enthusiast;UI/UX+Designer;Web+Developer;AI%2FML+Learner" alt="Typing SVG" />
