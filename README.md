@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&pause=1000&color=A3C900&center=true&vCenter=true&width=600&lines=Neuroinformatics+Enthusiast;UI/UX+Designer;Web+Developer;AI%2FML+Learner" alt="Typing SVG" />
 </a>
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=bumbot-hub&repo=bumbot-hub&countColor=%23A3C900&labelColor=%23000000)
 </div>
 
 <table style="border: none">
