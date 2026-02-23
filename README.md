@@ -39,7 +39,3 @@
 </td>
 </tr>
 </table>
-<p align="center">
-  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumbot-hub&layout=compact&hide=jupyter%20notebook,css&theme=merko" />
-  <img width="408" src="https://github-readme-stats.vercel.app/api?username=bumbot-hub&show_icons=true&theme=merko" />
-</p>
