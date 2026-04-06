@@ -27,9 +27,12 @@
 
 <ul>
   <li>
-    <a href="https://github.com/bumbot-hub/Montgomery-RSA-Optimizer" style="color: #A3C900"><b>Functional model of a digit-serial Montgomery Multiplier for RSA cryptosystems, 
-created for my "Computer Organization and Architecture" course.
-    <a href="https://github.com/bumbot-hub/Sorting-Algorithms" style="color: #A3C900"><b>Sorting algorithms implemetation</b></a>Implementation of sorting algorithms and empirical analysis of their computational complexity, created for my "Algorithms and Data Structures" course.
+    <a href="https://github.com/bumbot-hub/Montgomery-RSA-Optimizer" style="color: #A3C900"><b>Montgomery RSA Optimizer</b></a> Model of a digit-serial Montgomery Multiplier for RSA, created for my <i>"Computer Organization and Architecture"</i> course.
+  </li>
+  <li>
+    <a href="https://github.com/bumbot-hub/Sorting-Algorithms" style="color: #A3C900"><b>Sorting algorithms</b></a> Implementation of sorting algorithms andanalysis of their complexity, created for my <i>"Algorithms and Data Structures"</i> course.
+  </li>
+  <li>
     <a href="https://github.com/KN-Neuron/Neurohorror" style="color: #A3C900"><b>Neurohorror</b></a> Game developer (3D Artist, UI/UX, Scripting) <a href="https://knneuron.pwr.edu.pl/pl">@<i>Neuron</i></a>
   </li>
   <li>
